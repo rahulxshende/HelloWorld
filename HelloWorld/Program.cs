@@ -20,6 +20,8 @@ namespace HelloWorld
 
             Console.WriteLine("test5");
 
+            Console.WriteLine("test6");
+
         }
     }
 }
